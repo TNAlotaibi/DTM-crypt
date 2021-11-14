@@ -3,7 +3,7 @@
 ```bash
  pip install dtm-crypt
 ```
-#To Use it:
+To Use it:
 ```bash
   import DTM_crpyt
   DTM <--- Capital Letters
